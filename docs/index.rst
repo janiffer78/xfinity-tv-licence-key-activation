@@ -3,7 +3,7 @@ How to Activate Xfinity TV Licence Key Easily? 🔑📺
 
 Activating your **Xfinity TV licence key** is essential for accessing the full range of channels, movies, and shows you have subscribed to. Without activation, your Xfinity device or app may block content or show error messages. If you want a straightforward guide to **activate Xfinity TV licence key** easily and avoid any hassle, you’re in the right place! 🚀
 
-.. image:: start.png
+.. image:: activate.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
